@@ -1,4 +1,4 @@
-import "SV_Tasks.wdl" as SV
+import "https://raw.githubusercontent.com/Ldcabansay/sv-pipeline/master/scripts/Merge_SV.wdl" as SV
 
 workflow Merge_SV {
   # data inputs
