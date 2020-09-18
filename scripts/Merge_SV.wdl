@@ -1,5 +1,6 @@
 import "SV_Tasks.wdl" as SV
 #random change for test
+#random change for 2nd refresh
 workflow Merge_SV {
   # data inputs
   Array[File] input_vcfs
